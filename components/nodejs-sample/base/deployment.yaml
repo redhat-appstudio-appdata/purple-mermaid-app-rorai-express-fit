@@ -41,6 +41,6 @@ spec:
             port: 3001
         resources:
           requests:
-            cpu: 10m
+            cpu: 9m
             memory: 50Mi
 status: {}
